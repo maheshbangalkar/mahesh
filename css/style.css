@@ -43,6 +43,11 @@ html {
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
 
+  #icon{
+    width: 25px;
+    cursor: pointer;
+  }
+
   .mvb{
   font-weight: 800;
   }
